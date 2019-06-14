@@ -5,7 +5,7 @@ paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
 highlighter: rouge
 markdown: kramdown
-disqus: disqus_xVFU3hOkp4
+disqus: peterasorensen
 google_analytics: UA-63839810-3
 title: peterasorensen.org
 
