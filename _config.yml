@@ -8,6 +8,7 @@ markdown: kramdown
 disqus: peterasorensen
 google_analytics: UA-63839810-3
 title: peterasorensen.org
+permalink: /:year/:month/:day/:title
 
 defaults:
   -
