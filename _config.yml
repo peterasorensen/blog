@@ -21,11 +21,11 @@ description: Stylish Jekyll Theme
 author:
   name: Peter Aydin Sorensen
   email: peter.sorensen@berkeley.edu
-  github: peterasorensen
+  github: 
   twitter: 
   pinterest:
-  linkedin: peterasorensen
-  bio: Cal Grad and Software Engineer
+  linkedin: 
+  bio: 
   email_md5: 602156b59cf0ce11cfec01472d591cc3
 
 rss_path: feed.xml
