@@ -40,3 +40,15 @@ BASE_PATH:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+
+# Collections
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
+
+# Navigation
+header_pages:
+  - index.html
+  - blog.html
+  - support.html
