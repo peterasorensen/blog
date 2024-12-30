@@ -4,11 +4,27 @@ title: Portfolio
 ---
 
 <div class="projects-container">
+  <!-- iOS Projects Section -->
+  <h2 class="section-title">iOS Apps</h2>
   <div class="row">
     {% for project in site.projects %}
-      <div class="col-md-4 col-sm-6 project-wrapper">
-        {% include project-card.html %}
-      </div>
+      {% if project.type == "ios" %}
+        <div class="col-md-4 col-sm-6 project-wrapper" data-type="{{ project.type }}">
+          {% include project-card.html %}
+        </div>
+      {% endif %}
+    {% endfor %}
+  </div>
+
+  <!-- Web Projects Section -->
+  <h2 class="section-title">Web Projects</h2>
+  <div class="row">
+    {% for project in site.projects %}
+      {% if project.type == "web" %}
+        <div class="col-md-6 col-sm-6 project-wrapper" data-type="{{ project.type }}">
+          {% include project-card.html %}
+        </div>
+      {% endif %}
     {% endfor %}
   </div>
 </div>
