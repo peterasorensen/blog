@@ -78,4 +78,4 @@ I started writing this in a coffee shop after a long walk back from the gym. But
 
 And it feels *fucking good.*
 
-![Sitting in the lot, phone-free](../../../assets/media/parking-lot.png)
+![Sitting in the lot, phone-free](../../../assets/media/parking-lot.jpg)
