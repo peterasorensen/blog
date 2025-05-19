@@ -21,7 +21,7 @@ At some point today I thought:
 Ridiculous, sure. *Creative,* though? **Yes.**  
 And you wouldn’t be talking shit if you saw real-life bird-man. *Me, motherfucker.*
 
-I thought about my friend **Kshmyu** (kind of anonymized — you know who you are) and about making a **toilet hole shitter ultimate squatty potty product**. Basically turning your toilet into a classic hole-in-the-ground potty.  
+I thought about my friend Kshmyu (kind of anonymized — you know who you are) and about making a **toilet hole shitter ultimate squatty potty product**. Basically turning your toilet into a classic hole-in-the-ground potty.  
 
 Stupid idea? *Yeah.*  
 Health benefits abound? **Hell yeah.**  
@@ -35,13 +35,13 @@ Again, all of this theoretical of course.
 
 ---
 
-**I’m also writing this blog for the first time in 6 years.**
+I’m also writing this blog for the first time in 6 years.
 
 ---
 
 You also tend to think about painful things that your brain never even fully thought through or resolved, but just pushed away for a long time, and you actually think deeply through it without the urge to check dating apps, messages, your email, IG, or some random shit on the news to distract you.
 
-You’re forced to sit with your thoughts. And the lack of distractions is **deafening.** There is truly nowhere to turn for quick dopamine comfort.
+You’re forced to sit with your thoughts. And the lack of distractions is deafening. There is truly nowhere to turn for quick dopamine comfort.
 
 ---
 
@@ -59,7 +59,7 @@ There was definitely something *therapeutic* about writing this all out in prope
 
 I guess part of why this feels so therapeutic to me is that I have an **addictive personality**; I get fixated on things easily, and am impulsive in my daily decisions. And my phone is no exception to that.
 
-Some people just call this ADHD (I technically was diagnosed). But:
+This sucks because distractions are bigger obstacles, but it can also be a blessing because the hyperfixation cuts both ways — both for distractions and for real work. Some people just call this ADHD (I technically was diagnosed). But:
 
 1. *I hate that this country feels the need to throw a disorder title on everything*, and  
 2. Having ADHD is synonymous with “You take Adderall,” which I don’t — and think a lot less people should.  
